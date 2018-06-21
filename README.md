@@ -29,24 +29,24 @@ Game development resources
 [Button spritesheet example](http://examples.phaser.io/assets/buttons/button_sprite_sheet.png)
 
 ## Movement mechanics
-[Start-stop](phaser.io/sandbox/upPqKhTW)
+[Start-stop](phaser.io/sandbox/edit/upPqKhTW)
 
-[Acceleration](phaser.io/sandbox/ZKpVCuzC)
+[Acceleration](phaser.io/sandbox/edit/ZKpVCuzC)
 
-[Drag and velocity cap](phaser.io/sandbox/jRkVFWvZ)
+[Drag and velocity cap](phaser.io/sandbox/edit/jRkVFWvZ)
 
-[Flapping](phaser.io/sandbox/BFQktsMK)
+[Flapping](phaser.io/sandbox/edit/BFQktsMK)
 
-[Jumping](phaser.io/sandbox/AVpfQZIJ)
+[Jumping](phaser.io/sandbox/edit/AVpfQZIJ)
 
-[Gravity and events](phaser.io/sandbox/FxbSZrxg)
+[Gravity and events](phaser.io/sandbox/edit/FxbSZrxg)
 
 ## More mechanics
 
 [Game mechanic explorer](https://gamemechanicexplorer.com/#platformer-3)
 
 ## AI, architecture, optimization, ornaments
-[Spawing, steering (hooming), OOP, object pooling, sprite animation](phaser.io/sandbox/vwSYxOTZ)
+[Spawing, steering (hooming), OOP, object pooling, sprite animation](phaser.io/sandbox/edit/vwSYxOTZ)
 
 ## Events
 [Signals](https://photonstorm.github.io/phaser-ce/Phaser.Signal.html)
