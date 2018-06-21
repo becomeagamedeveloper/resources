@@ -2,27 +2,107 @@
 Game development resources
 
 ---
+# Day 3 - build your game!
+*...coming soon...*
 
-## Day 1
+---
+# Day 2 - design your game!
+Recap degli argomenti trattati: 
 
-### Workshop
+Chi è il **game designer**? 
+* NON è il capo del team, né il leader né altro.
+* Fa le cose che vedremo di seguito.
+
+È necessario in un team?
+* No, ma si!
+* Anche se tutti giochiamo e siamo in grado di creare giochi, avere una persona specializzata che (tendenzialmente) ha studiato per questo ruolo e che quindi ha degli strumenti in più, è molto utile.
+* E poi fa cose che tendenzialmente nessun altro ha voglia e sbatta di fare! Quindi bene!
+
+Che cosa fa in un gioco:
+1. Stabilisce gli obiettivi. Un obiettivo deve essere:
+	* Chiaro.
+	* Semplice.
+	* Proporzionato alle capacità del giocatore in quel momento.
+	* Può essere esplicito, facoltativo o implicito.
+
+2. Pone le regole. Una regola...
+	* Non deve essere equivoca.
+	* Deve essere semplice.
+	* Precisa.
+	* Verosimile.
+
+3. Crea la sfida. La sfida...
+	* Serve a far restare il giocatore nel sistema!
+	* Può essere individuale, cooperativa o competitiva, o tutte e tre contemporaneamente!
+
+4. Interazioni
+	* Devono esserci, altrimenti è un film!
+	* Può essere diretta (interagisco con un sistema) o mediana (interagisco con un sistema che agisce su un altro sistema).
+
+5. GDD (Game Design Document)
+	* È un documento scritto dove c’è tutto quello che si deve sapere sul gioco, la bibbia!
+	* Come si scrive un GDD? Sta a voi!
+
+6. Prototipazione
+	* Dà la prima impressione sul gioco
+	* Può essere fatta su un engine (Prototype) o su carta (Paper-prototype).
+
+7. Testing
+	* Per verificare che il gioco prosegua sulla retta via.
+	* Utile per il sistema MDA, continua a leggere per saperne di più!
+
+Qualità di un game designer:
+1. Dialogo
+	* È importantissimo! È stupido dirlo ma è bene ripeterlo. Si basa su: ascoltare, pensare e parlare.
+	* È fondamentale per la scrittura dei GDD e dei regolamenti.
+	* Come si può migliorare? Tramite Interazioni sociali, leggendo e giocando ai giochi da tavolo e leggendo e studiando i loro regolamenti.
+
+2. Problem solving
+	* L’uomo è pagato per risolvere problemi, e lo sono anche i game designer (di solito).
+	* Come lo posso rendere interessante? Come lo posso rendere divertente? Come lo posso rendere emozionante?
+	* Come si può migliorare? Osservando e studiando, estensione della propria conoscenza verticale (game design), orizzontale (programmazione, 2D, 3D, etc) e dell’inutile (giochi, musica, film, libri, fumetti, anime, serie tv, attualità, etc)
+
+3. Creatività
+	* È fondamentale ma è complicato!
+	* Un’idea "mai pensata" è già stata pensata miliardi di volte :(
+	* Come si può migliorare? Tramite il Brain storming, il pitching e la cultura dell’inutile.
+
+Strumenti di un game designer
+* MDA: 
+	* **Meccaniche**: le meccaniche sono le regole del sistema gioco! 
+	* **Dinamiche**: sono le interazioni tra le varie regole! Più dinamiche ci sono, più cresce il gameplay emergente.
+	* **Estetiche**: è l’esperienza che prova il giocatore quando gioca! Tutte le esperienze sono state categorizzate da Hunicke, LeBlanc e Zubek in 9 categorie: 
+		1. challenge
+		1. fellowship
+		1. dominance
+		1. submission
+		1. discovery
+		1. fantasy
+		1. narrative
+		1. expression
+		1. sensation.
+---
+
+# Day 1 - the kickoff!
+
+## Workshop
 
 [Sandbox](https://phaser.io/sandbox/edit/1)
 
 [Shortcuts](https://phaser.io/sandbox/keyboard-shortcuts)
 
-Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
+Simple game, step by step:
 
-1. [BASICS](https://phaser.io/sandbox/edit/LPRbKAxR)
-2. [WORLD](https://phaser.io/sandbox/edit/tWlwmbcG)
-3. [PHYSICS](https://phaser.io/sandbox/edit/tWlwmbcG)
-4. [PURPOSE](https://phaser.io/sandbox/edit/CixMilse)
-5. [FEEDBACK](https://phaser.io/sandbox/edit/jCwLGDAa)
-6. [TENSION](https://phaser.io/sandbox/edit/diJSlkmc)
+1. [BASICS](https://phaser.io/sandbox/LPRbKAxR)
+2. [WORLD](https://phaser.io/sandbox/tWlwmbcG)
+3. [PHYSICS](https://phaser.io/sandbox/SfCmCazQ)
+4. [PURPOSE](https://phaser.io/sandbox/CixMilse)
+5. [FEEDBACK](https://phaser.io/sandbox/jCwLGDAa)
+6. [TENSION](https://phaser.io/sandbox/diJSlkmc)
 
 
 
-### Phaser 2
+## Phaser 2
 
 [Home](https://phaser.io/)
 
@@ -38,7 +118,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Bonus material
+## Bonus material
 
 [Phaser 3 download](https://phaser.io/download/stable)
 
@@ -48,7 +128,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 ---
 
-## Jams / Contests
+# Jams / Contests
 
 [1GAM](http://www.onegameamonth.com/)
 
@@ -60,9 +140,9 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 ---
 
-## Learning Material
+# Learning Material
 
-### Hubs (lists of other resources, mixed types)
+## Hubs (lists of other resources, mixed types)
 
 [Game design and Digital art](https://gameanalytics.com/blog/21-free-learning-resources-for-game-developers.html)
 
@@ -70,7 +150,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Everything
+## Everything
 
 [Gamasutra](https://www.gamasutra.com/)
 
@@ -80,11 +160,13 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Game development
+## Game development
 
 [Programming and Game development](https://eliasdaler.github.io/programming-and-gamedev-resources/)
 
 [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
+
+[Game programming patterns](http://gameprogrammingpatterns.com/)
 
 [Red Blob Games - Maths and Computer Science concepts](https://www.redblobgames.com/)
 
@@ -98,7 +180,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Game design
+## Game design
 
 [Extra Credits](https://www.youtube.com/user/ExtraCreditz)
 
@@ -106,7 +188,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Digital art
+## Digital art
 
 [Digital art sites](https://www.creativebloq.com/digital-art/10-top-digital-art-resources-5131223)
 
@@ -116,19 +198,19 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Animation
+## Animation
 
 [6 Animation resources](https://www.milessebesta.com/animation/best-animation-resources-learning-animation/)
 
 
 
-### Audio
+## Audio
 
 [Websites offering free game sounds](https://v-play.net/game-resources/16-sites-featuring-free-game-sounds)
 
 
 
-### Motivational
+## Motivational
 
 [How to succeed at making 1GAM](https://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695)
 
@@ -136,7 +218,7 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 
 
 
-### Documentaries
+## Documentaries
 
 [Double Fine Adventure (Broken Age)](https://www.youtube.com/watch?v=AdXvZgIV1Q0&list=PLIhLvue17Sd7F6pU2ByRRb0igiI-WKk3D)
 
@@ -147,6 +229,8 @@ Game (DON'T OPEN THESE UNLESS YOU LIKE SPOILERS!!!):
 ## Conferences and Awards
 
 [GDC](http://www.gdconf.com/)
+
+[E3](https://www.e3expo.com/)
 
 [Academy of Interactive Arts and Sciences](http://www.interactive.org/)
 
