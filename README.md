@@ -3,7 +3,70 @@ Game development resources
 
 ---
 # Day 3 - build your game!
-*...coming soon...*
+# USEFUL
+
+[Sandbox](https://phaser.io/sandbox/edit/1)
+[Phaser CE documentation](https://photonstorm.github.io/phaser-ce/index.html#toc-2)
+[Docs search](https://phaser.io/learn/chains)
+
+
+# GAMEPLAY
+
+## Camera
+[Follow](https://phaser.io/examples/v2/camera/basic-follow)
+[Other examples (cull, fade, lerp, ...)](https://phaser.io/examples/v2/category/camera)
+
+## GUI
+[Image](https://phaser.io/examples/v2/basics/01-load-an-image)
+[Label](https://phaser.io/examples/v2/basics/06-render-text)
+[Buttons](https://phaser.io/examples/v2/category/buttons)
+[Button spritesheet example](http://examples.phaser.io/assets/buttons/button_sprite_sheet.png)
+
+## Movement mechanics
+[Start-stop](phaser.io/sandbox/upPqKhTW)
+[Acceleration](phaser.io/sandbox/ZKpVCuzC)
+[Drag and velocity cap](phaser.io/sandbox/jRkVFWvZ)
+[Flapping](phaser.io/sandbox/BFQktsMK)
+[Jumping](phaser.io/sandbox/AVpfQZIJ)
+[Gravity and events](phaser.io/sandbox/FxbSZrxg)
+
+## More mechanics
+
+[Game mechanic explorer](https://gamemechanicexplorer.com/#platformer-3)
+
+## AI, architecture, optimization, ornaments
+[Spawing, steering (hooming), OOP, object pooling, sprite animation](phaser.io/sandbox/vwSYxOTZ)
+
+## Events
+[Signals](https://photonstorm.github.io/phaser-ce/Phaser.Signal.html)
+
+# ARCHITECTURE
+
+## Game states
+[Simple example](http://www.emanueleferonato.com/2014/08/28/phaser-tutorial-understanding-phaser-states/)
+
+[Richer example](https://mmcfarland.itch.io/phaser-menu-system)
+
+## Full projects
+[Full game: infinite jumper](https://github.com/shohan4556/jolly-jumper)
+
+[Phaser project template using typescript and visual studio code](https://github.com/mujina93/template_typescript_phaser)
+
+# BONUS
+
+[Phaser examples](https://phaser.io/examples/v2/search?search=event)
+
+[Phaser games examples](https://phaser.io/examples/v2/category/games)
+
+[List of video games with code on github](https://github.com/leereilly/games/)
+
+[Turn based system](https://phaser.io/news/2018/02/turn-based-battle-system-tutorial)
+
+[Tutorial on steering and finite state machines A.I.](https://www.raywenderlich.com/24824/introduction-to-ai-programming-for-games)
+
+[Procedurally Generated Content wiki](http://pcg.wikidot.com/)
+
+[Assets](http://examples.phaser.io/assets/)
 
 ---
 # Day 2 - design your game!
