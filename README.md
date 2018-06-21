@@ -6,7 +6,9 @@ Game development resources
 # USEFUL
 
 [Sandbox](https://phaser.io/sandbox/edit/1)
+
 [Phaser CE documentation](https://photonstorm.github.io/phaser-ce/index.html#toc-2)
+
 [Docs search](https://phaser.io/learn/chains)
 
 
@@ -14,20 +16,29 @@ Game development resources
 
 ## Camera
 [Follow](https://phaser.io/examples/v2/camera/basic-follow)
+
 [Other examples (cull, fade, lerp, ...)](https://phaser.io/examples/v2/category/camera)
 
 ## GUI
 [Image](https://phaser.io/examples/v2/basics/01-load-an-image)
+
 [Label](https://phaser.io/examples/v2/basics/06-render-text)
+
 [Buttons](https://phaser.io/examples/v2/category/buttons)
+
 [Button spritesheet example](http://examples.phaser.io/assets/buttons/button_sprite_sheet.png)
 
 ## Movement mechanics
 [Start-stop](phaser.io/sandbox/upPqKhTW)
+
 [Acceleration](phaser.io/sandbox/ZKpVCuzC)
+
 [Drag and velocity cap](phaser.io/sandbox/jRkVFWvZ)
+
 [Flapping](phaser.io/sandbox/BFQktsMK)
+
 [Jumping](phaser.io/sandbox/AVpfQZIJ)
+
 [Gravity and events](phaser.io/sandbox/FxbSZrxg)
 
 ## More mechanics
